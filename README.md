@@ -5,8 +5,11 @@ Unreal Engine 4 Project - Showcase Visual Scripting (Blueprint) with focus on ob
 following the course "Unreal Engine Blueprint Developer: Learn Visual Scripting" on GameDev.tv 
 https://www.gamedev.tv/p/unreal-blueprint last visited 09.06.2020 16:09
 
+Materials and Static Meshes are from Unreal Engine 4 Starter Content
+
 Control the Pawn with W,A,S,D
-Press Escape to end the application
+
+Press Escape to end the application anytime
 
 Crystal_Project: Project Files (.uproject)
 
